@@ -1,1 +1,1 @@
-Invitation site for hall day, built using React, Tailwind, Typescript and Acceternity UI
+Invitation site for hall day, built using Tailwind, Acceternity UI and ant-design.
